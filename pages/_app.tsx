@@ -11,8 +11,8 @@ function MyApp({ Component, pageProps }: AppProps) {
   return (
     <>
       <Head>
-        <title>Kamil Zielinski portfolio</title>
-        <meta name="description" content="Kamil Zielinski personal portfolio" />
+        <title>Kamil Zieliński portfolio</title>
+        <meta name="description" content="Kamil Zieliński personal portfolio" />
       </Head>
       <ThemeProvider>
         <MaxWidthContainer>
